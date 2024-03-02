@@ -1,0 +1,9 @@
+ 
+接口名称 : WLAN 
+当前有 1 个网络可见。 
+
+SSID 1 : dog
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP 
+

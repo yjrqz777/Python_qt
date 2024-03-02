@@ -1,0 +1,107 @@
+接口名称 : WLAN 
+当前有 19 个网络可见。 
+
+SSID 1 : zzuli-student
+    Network type            : 结构       
+    身份验证                : 开放式     
+    加密                    : 无         
+
+SSID 2 : zzuli-teacher
+    Network type            : 结构       
+    身份验证                : 开放式     
+    加密                    : 无         
+
+SSID 3 : dog
+    Network type            : 结构       
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP       
+
+SSID 4 : eduroam
+    Network type            : 结构
+    身份验证                : WPA2 - 企业
+    加密                    : CCMP
+
+SSID 5 : E58FABE5A3B0E88081E585ACEFBC8CE591BDE983BDE7BB99E4BDA0
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 6 : Redmi K60 Pro
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 7 : 鍗蜂細鍚э紝鍒鐪熻冧笉涓婁簡
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 8 : zzuli-inside
+    Network type            : 结构
+    身份验证                : 开放式
+    加密                    : 无
+
+SSID 9 : zzb
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 10 : 灏忓忓悓蹇楃殑wifi
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 11 : 鏂濉旀櫘杈ｉ叡锛岀牳鐡﹂瞾澶
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 12 : DIRECT-WGEXDSXQXImswO
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 13 : 寰＄敤WiFi
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 14 : Redmi K60 Ultra
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 15 : iPhone 15 Pro Max
+    Network type            : 结构
+    身份验证                : WPA3 - 个人
+    加密                    : CCMP
+
+SSID 16 : 404_m6200
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 17 : HONOR 90 Pro
+    Network type            : 结构
+    身份验证                : WPA3 - 个人
+    加密                    : CCMP
+
+SSID 18 : 404
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+SSID 19 : OnePlus Ace 2
+    Network type            : 结构
+    身份验证                : WPA2 - 个人
+    加密                    : CCMP
+
+
+b' \r\n\xbd\xd3\xbf\xda\xc3\xfb\xb3\xc6 : WLAN \r\n\xb5\xb1\xc7\xb0\xd3\xd0 19 \xb8\xf6\xcd\xf8\xc2\xe7\xbf\xc9\xbc\xfb\xa1\xa3 \r\n\r\nSSID 1 : zzuli-student\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : \xbf\xaa\xb7\xc5\xca\xbd\r\n  
+  \xbc\xd3\xc3\xdc                    : \xce\xde \r\n\r\nSSID 2 : zzuli-teacher\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : \xbf\xaa\xb7\xc5\xca\xbd\r\n    \xbc\xd3\xc3\xdc                    : \xce\xde \r\n\r\nSSID 3 : dog\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc   
+                 : CCMP \r\n\r\nSSID 4 : eduroam\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4
+      : WPA2 - \xc6\xf3\xd2\xb5\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 5 : E58FABE5A3B0E88081E585ACEFBC8CE591BDE983BDE7BB99E4BDA0\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 6 : Redmi K60 Pro\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 7 : \xe5\x8d\xb7\xe4\xbc\x9a\xe5\x90\xa7\xef\xbc\x8c\xe5\x88\xab\xe7\x9c\x9f\xe8\x80\x83\xe4\xb8\x8d\xe4\xb8\x8a\xe4\xba\x86\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n  
+  \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 8 : zzuli-inside\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : \xbf\xaa\xb7\xc5\xca\xbd\r\n    \xbc\xd3\xc3\xdc                    : \xce\xde \r\n\r\nSSID 9 : zzb\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 10 : \xe5\xb0\x8f\xe5\xa4\x8f\xe5\x90\x8c\xe5\xbf\x97\xe7\x9a\x84wifi\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 11 : \xe6\x96\xaf\xe5\xa1\x94\xe6\x99\xae\xe8\xbe\xa3\xe9\x85\xb1\xef\xbc\x8c\xe7\xa0\xb8\xe7\x93\xa6\xe9\xb2\x81\xe5\xa4\x9a\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 12 : DIRECT-WGEXDSXQXImswO\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc
+          : CCMP \r\n\r\nSSID 13 : \xe5\xbe\xa1\xe7\x94\xa8WiFi\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 14 : Redmi K60 Ultra\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc
+         : CCMP \r\n\r\nSSID 15 : iPhone 15 Pro Max\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4       
+         : WPA3 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 16 : 404_m6200\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 17 : HONOR 90 Pro\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA3 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 18 : 404\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\nSSID 19 : OnePlus Ace 2\r\n    Network type            : \xbd\xe1\xb9\xb9\r\n    \xc9\xed\xb7\xdd\xd1\xe9\xd6\xa4                : WPA2 - \xb8\xf6\xc8\xcb\r\n    \xbc\xd3\xc3\xdc                    : CCMP \r\n\r\n'
